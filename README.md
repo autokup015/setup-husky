@@ -69,8 +69,16 @@ Exp commit
 git commit -m "feat(crud): add function crud on product pages"
 ```
 
+```shell
+git commit -m "feat: add function crud on product pages"
+```
+
 or
 
 ```shell
 git commit -m "fix(bug): edit product"
+```
+
+```shell
+git commit -m "fix: edit product"
 ```
