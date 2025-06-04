@@ -6,7 +6,7 @@
 pnpm dlx husky-init && pnpm install
 ```
 
-When install succes you will get husky pre-commit files on .husky
+When install success you will get husky pre-commit files in .husky
 
 ```cmd
 #!/usr/bin/env sh
